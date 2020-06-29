@@ -1,0 +1,7 @@
+This app calcutates the Expected delivery time of the laundry.
+Given 
+1.common start and end time of each day
+2.specific start and end time of specific days
+3.leave days and dates
+
+The input is hardcored
